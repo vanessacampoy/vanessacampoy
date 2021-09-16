@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vanessacampoy
-- 👀 I’m interested in ...Java script, HTML e CSS
-- 🌱 I’m currently learning ... front end e UX Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou a Vanessa!
+- 
+- 🌱 Eu estou estudando Front end e UX Design
+-
+- 📫LinkedIn:https://www.linkedin.com/in/vanessa-campoy-594b35217/.
 
 <!---
 vanessacampoy/vanessacampoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
