@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou a Vanessa!
-- 
+
 - 🌱 Eu estou estudando Front end e UX Design
--
+
 - 📫LinkedIn:https://www.linkedin.com/in/vanessa-campoy-594b35217/.
 
 <!---
