@@ -1,5 +1,5 @@
 Olá, eu sou a Vanessa!<br>
-Estou estudando Front end e UX Design<br>
+Desenvolvedora Front end<br>
  Pronomes: ela/ dela<br>
 
 <div>
