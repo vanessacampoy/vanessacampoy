@@ -1,5 +1,5 @@
 Olá, eu sou a Vanessa!<br>
-Analista de dados end<br>
+Analista de dados com foco em estruturação, análise e visualização de informações para apoiar decisões concretas. Experiência em SQL e Power BI, com projetos voltados para eficiência operacional e entendimento de comportamento de usuário.<br>
  Pronomes: ela/ dela<br>
 
 <div>
