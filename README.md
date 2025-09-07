@@ -1,5 +1,5 @@
 Olá, eu sou a Vanessa!<br>
-Desenvolvedora Front end<br>
+Analista de dados end<br>
  Pronomes: ela/ dela<br>
 
 <div>
