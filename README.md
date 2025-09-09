@@ -13,7 +13,7 @@ Estou sempre aprendendo alguma coisa nova. No futuro, quero seguir para a área 
 * **SQL** – consultas, modelagem e tratamento de dados (já usei BigQuery e dBeaver).
 * **BI e Dashboards** – Power BI e Looker Studio para criar visualizações claras e interativas.
 * **Excel** – estatísticas descritivas, análises e organização de bases.
-* **Figma – criação de layouts e organização visual para dashboards.
+* Figma – criação de layouts e organização visual para dashboards.
 * **GitHub** – versionamento e documentação de projetos.
 
 ---
