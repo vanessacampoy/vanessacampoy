@@ -33,7 +33,7 @@ Estou sempre aprendendo alguma coisa nova. No futuro, quero seguir para a área 
 ---
 
 ## Onde me encontrar
-[LinkedIn]([link_linkedin](https://www.linkedin.com/in/vanessacampoy/)) 
+[LinkedIn]([link_linkedin](https://www.linkedin.com/in/vanessacampoy/)) • [Medium]([link_medium](https://medium.com/@vanessacamqpoy))
 
   
     
