@@ -1,26 +1,39 @@
-Olá, eu sou a Vanessa!<br>
-Analista de dados com foco em estruturação, análise e visualização de informações para apoiar decisões concretas. Experiência em SQL e Power BI, com projetos voltados para eficiência operacional e entendimento de comportamento de usuário.<br>
- Pronomes: ela/ dela<br>
+# Olá, eu sou a Vanessa 👋🏽
 
-<div>
-  <a href="https://github.com/vanessacampoy">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanessaCampoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanessaCampoy&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-  
- <br>
-  
-<div>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+Formada em **Design**, mas encontrei meu lugar no universo dos **dados**.
+Hoje trabalho como analista, realizando análises, organizando bases e respondendo perguntas usando números.
+O mundo dos dados me encanta — mesmo nos dias em que dá vontade de sair correndo 😅.
 
- ##
- <div>       
-  <a href="https://www.linkedin.com/in/vanessa-campoy-594b35217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
-   <a href = "mailto: campoyvanessa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-  </div>
+Estou sempre aprendendo alguma coisa nova. No futuro, quero seguir para a área de **Ciência de Dados**, mas por enquanto sigo firme construindo projetos, praticando e entendendo cada vez melhor como os dados contam histórias.
+
+---
+
+## O que eu sei fazer
+
+* **SQL** – consultas, modelagem e tratamento de dados (já usei BigQuery e dBeaver).
+* **BI e Dashboards** – Power BI e Looker Studio para criar visualizações claras e interativas.
+* **Excel** – estatísticas descritivas, análises e organização de bases.
+* **Figma – criação de layouts e organização visual para dashboards.
+* **GitHub** – versionamento e documentação de projetos.
+
+---
+
+## Projetos em Destaque
+
+* [Análise de Risco de Crédito – Banco Caja](link_para_repo)
+  Score de risco, cortes de classificação e dashboard no Looker Studio.
+
+---
+
+## Formação
+
+🎓 **Design Gráfico e Digital**
+📚 Cursos em andamento: SQL e Estatística
+
+---
+
+## Onde me encontrar
+[LinkedIn]([link_linkedin](https://www.linkedin.com/in/vanessacampoy/)) 
+
   
     
