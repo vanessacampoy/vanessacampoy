@@ -1,7 +1,7 @@
 # Olá, eu sou a Vanessa 👋🏽
 
 Formada em **Design**, mas encontrei meu lugar no universo dos **dados**.
-Hoje trabalho como analista, realizando análises, organizando bases e respondendo perguntas usando números.
+Hoje trabalho analisando dados, organizando bases e respondendo perguntas usando números.
 O mundo dos dados me encanta — mesmo nos dias em que dá vontade de sair correndo 😅.
 
 Estou sempre aprendendo alguma coisa nova. No futuro, quero seguir para a área de **Ciência de Dados**, mas por enquanto sigo firme construindo projetos, praticando e entendendo cada vez melhor como os dados contam histórias.
