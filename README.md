@@ -1,4 +1,4 @@
-# Olá, eu sou a Vanessa 👋🏽
+# Olá, eu sou a Vanessa 👋🏾
 
 Minha formação é em Design, mas foi nos dados que encontrei meu lugar. Hoje passo boa parte do tempo analisando informações, organizando bases e tentando responder perguntas com números. Esse mundo me fascina — mesmo nos dias em que dá vontade de sair correndo 😅.
 
