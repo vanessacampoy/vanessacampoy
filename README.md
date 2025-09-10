@@ -7,8 +7,15 @@ Estou sempre aprendendo algo novo. No futuro, quero seguir para Ciência de Dado
 ---
 
 ## O que eu sei fazer
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue?logo=googlebigquery&logoColor=white)
+![dBeaver](https://img.shields.io/badge/SQL-dBeaver-lightgrey?logo=dbeaver&logoColor=white)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/BI-Looker%20Studio-4285F4?logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-FF7262?logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-* **SQL** – consultas, modelagem e tratamento de dados (já usei BigQuery e dBeaver).
+* **SQL** – consultas, modelagem e tratamento de dados (BigQuery e dBeaver).
 * **BI e Dashboards** – Power BI e Looker Studio para criar visualizações claras e interativas.
 * **Excel** – estatísticas descritivas, análises e organização de bases.
 * Figma – criação de layouts e organização visual para dashboards.
