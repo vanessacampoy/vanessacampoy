@@ -25,8 +25,9 @@ Estou sempre aprendendo algo novo. No futuro, quero seguir para Ciência de Dado
 
 ## Projetos em Destaque
 
-* [Análise de Risco de Crédito – Banco Caja]((https://github.com/vanessacampoy/analise_risco_credito))
-  Score de risco, cortes de classificação e dashboard no Looker Studio.
+[Análise de Risco de Crédito – Banco Caja](https://github.com/vanessacampoy/analise_risco_credito)  
+Score de risco, cortes de classificação e dashboard no Looker Studio.
+
 
 ---
 
